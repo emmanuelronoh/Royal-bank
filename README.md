@@ -9,7 +9,8 @@ Delete transactions.
 Transactions are fetched from a local JSON server and displayed in a styled table.
 
 Features
-View Transactions: Display a table of transactions including ID, description, amount, and date.
+View Transactions
+Display a table of transactions including ID, description, amount, and date.
 Add Transaction: Form to add new transactions with description, amount, category, and date.
 Search Transactions: Filter transactions by typing into the search bar.
 Delete Transaction: Remove transactions from the list.
